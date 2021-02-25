@@ -12,4 +12,4 @@ The app visualizes the construction of Bezier curve by applying algorithm de Cas
 - pygame
 
 ## Example
-![Alt text](example.gif) / ![](example.gif)
+<img src="example.gif" width="750" height="525"/>
